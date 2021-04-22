@@ -28,7 +28,7 @@ List the dependencies of the Analysis-functionality.
 
 1. Access to the Server containing the telemetrics in a csv file
 2. .CSV file to .pdf convertion of the analyzed data
-3. Email alert or text alert or other notifaction based on users choice
+3. Email alert or text alert(error notification alone) or other notification based on users choice
 
 (add more if needed)
 
